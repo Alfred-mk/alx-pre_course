@@ -1,0 +1,4 @@
+git status
+git fetch...check if there are any changes
+git status...verify that the local branch is one commit behind
+git pull...updates the local branch
